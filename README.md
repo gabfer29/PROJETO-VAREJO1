@@ -1,6 +1,8 @@
 # **PROJETO VAREJO 1:**
-* Um breve dashboard no formato Power Bi contendo dados da venda de dois anos de uma Loja de Departamentos anônima.
-* Foi realizada o tratamento dos dados e a análise via ferramenta Power BI.
+* Segue abaixo um Dashboard que desenvolvi via Power BI no qual contém dados das vendas de dois anos de uma grande loja de departamentos anônima. 
+* Realizei todo o tratamento e limpeza dos dados via DAX no próprio Power BI.
+* Os dados foram fornecidos pela EBAC.
 ---
 **Segue em anexo o link para acesso do Dashboard:** 
-https://app.powerbi.com/view?r=eyJrIjoiM2Q2YmNjZjMtMDcxMy00MTljLWIwYTYtNDMyMGFjMDNjNGM2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiNjFlNjY1MzAtM2UyYi00MjBlLWI5YzktOGY5ZTExNGZkN2U1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+

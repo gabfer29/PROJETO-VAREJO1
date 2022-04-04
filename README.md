@@ -1,6 +1,10 @@
 # **PROJETO VAREJO 1:**
+---
+
 * Segue abaixo um Dashboard que desenvolvi via Power BI no qual contém dados das vendas de dois anos de uma grande loja de departamentos anônima. 
+
 * Realizei todo o tratamento e limpeza dos dados via DAX e linguagem m no próprio Power BI para criação de novos filtros, colunas e tabelas.
+
 * Os dados foram fornecidos pela EBAC.
 ---
 **Segue em anexo o link para acesso do Dashboard:** 

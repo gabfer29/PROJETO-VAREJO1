@@ -5,6 +5,8 @@
 
 * Realizei todo o tratamento e limpeza dos dados via DAX e linguagem m no próprio Power BI para criação de novos filtros, colunas e tabelas.
 
+* Os relacionamentos entre as tabelas também foram feitos de maneira manual e a evidência está disponível em um arquivo png.
+
 * Os dados foram fornecidos pela EBAC.
 ---
 **Segue em anexo o link para acesso do Dashboard:** 
